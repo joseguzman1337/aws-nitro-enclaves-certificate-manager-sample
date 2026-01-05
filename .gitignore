@@ -4,3 +4,6 @@
 .idea
 node_modules
 packaged.yaml
+# macOS system files
+.DS_Store
+._*
