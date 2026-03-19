@@ -5,6 +5,6 @@
   "main": "AssocEnclaveCertFunction.js",
   "author": "J.D. Bean",
   "dependencies": {
-    "aws-sdk": "^2.1693.0"
+    "aws-sdk": "^2.1694.0"
   }
 }
